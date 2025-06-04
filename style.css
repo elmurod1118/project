@@ -1,0 +1,31 @@
+.lists{
+    justify-content: center;
+    background-color: rgb(212, 211, 211);
+    margin: 0px;
+    padding: 40px 20px;
+    display: flex;
+    gap: 50px;
+}
+
+.lists a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.75rem;
+    background-color: blue;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.lists a:hover {
+    border: 1px solid black;
+}
+
+.container {
+    background-color:gainsboro;
+    padding: 15px;
+    margin: 8px;
+    border-radius: 7px;
+    height: 300px;
+    width: 220px;
+}
